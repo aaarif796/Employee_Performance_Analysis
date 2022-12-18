@@ -1,7 +1,5 @@
 # Employee_Performance_Analysis
-INX Company decided to initiate a data science project , which analyses the current employee data and find the core underlying causes of this performance issues. 
-Mr. Brain, being a data scientist himself, expects the findings of this project will help him to take right course of actions. He also expects a clear indicators 
-of non performing employees, so that any penalization of non-performing employee, if required, may not significantly affect other employee morals.
+Employee Peformance Dataset decided to initiate a data science project , which analyses the current employee data and find the core underlying causes of this performance issues. Expects a clear indicators of non performing employees, so that any penalization of non-performing employee, if required, may not significantly affect other employee morals.
 
 # Dashboard
 ![ScreenShot](https://github.com/aaarif796/Employee_Performance_Analysis/blob/main/data%20analyst.png)
